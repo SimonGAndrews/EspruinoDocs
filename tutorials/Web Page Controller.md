@@ -15,7 +15,7 @@ The code was produced with the assistance of the ChatGBT AI interface. (OpenAI.c
 
 Software
 --------
-```
+```js
 /*
  * Espruino Web Control and Monitoring Application
  * ============================================
