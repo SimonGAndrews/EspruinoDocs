@@ -15,9 +15,6 @@ The code was produced with the assistance of the ChatGBT AI interface. (OpenAI.c
 
 Software
 --------
-
-...
-
 ```
 /*
  * Espruino Web Control and Monitoring Application
@@ -244,6 +241,4 @@ wifi.startAP('EspruinoAP', { password: '12345678', authMode: 'wpa2' }, function(
     }).listen(80);
   console.log('HTTP server listening in Access Point "' +apSSID+ '" on ' +apIP+ '(' + apPort + ')');
 });
-```
-
-...
+````
